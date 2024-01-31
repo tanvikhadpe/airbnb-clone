@@ -5,7 +5,7 @@
 
 <h2>Project Screenshots:</h2>
 <p></p>
-<img src="https://utfs.io/f/22e579d8-c7ba-4910-95c5-4c0e94ff207c-q3qjid.jpg" alt="project-screenshot" width="100%" height="100%/">
+<img src="https://res.cloudinary.com/dxlnfyzyp/image/upload/v1706722173/Screenshot_2024-01-31_225720_zuatt8.png" alt="project-screenshot" width="100%" height="100%/">
 
 <p></p>
   
