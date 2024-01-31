@@ -1,8 +1,17 @@
-# Full Stack Airbnb Clone with Next.js 13 App Router: React, Tailwind, Prisma, MongoDB, NextAuth
+<h1 align="center" id="title">Full Stack Airbnb Clone with Next.js 13 App Router: React, Tailwind, Prisma, MongoDB, NextAuth</h1>
 
-This is a repository for a Full Stack Airbnb Clone with Next.js 13 App Router: React, Tailwind, Prisma, MongoDB, NextAuth.
+<p></p>
+<p id="description">This is a repository for a Full Stack Airbnb Clone with Next.js 13 App Router: React, Tailwind, Prisma, MongoDB, NextAuth.</p>
 
-Features:
+<h2>Project Screenshots:</h2>
+<p></p>
+<img src="https://utfs.io/f/22e579d8-c7ba-4910-95c5-4c0e94ff207c-q3qjid.jpg" alt="project-screenshot" width="100%" height="100%/">
+
+<p></p>
+  
+<h2>🧐 Features</h2>
+
+Here're some of the project's best features:
 
 - Tailwind design
 - Tailwind animations and effects
